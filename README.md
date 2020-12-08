@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3bad2ae6-2479-4f58-84d8-6b4f2dacd805/deploy-status)](https://app.netlify.com/sites/thirsty-villani-0f720c/deploys)
-
 ## Monsters-rolodex-complete
 
 The completed version of our monsters rolodex project!
